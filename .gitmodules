@@ -1,0 +1,3 @@
+[submodule "IDDD_Samples"]
+	path = IDDD_Samples
+	url = https://github.com/diegopaniago/IDDD_Samples.git
